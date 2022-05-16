@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cardiovascular Disease: Can health data predict whether or not a patient has cardiovascular disease?
 
 You can use the [editor on GitHub](https://github.com/robynehoover/CardiovascularDataAnalysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
