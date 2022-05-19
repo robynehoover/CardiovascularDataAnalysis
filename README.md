@@ -29,8 +29,8 @@ Questions Answered in the Analysis with visulizations:
 -Cardiovascular disease is slightly more common in men than women.
     Men: 50.5%
     Women: 49.7%
-[2] Is systolic or diastolic blood pressure more important when predicting cardiovascular disease?
--Systolic blood pressure (the top number) is more important. More patients had a high systolic blood pressure (>120) than a high diastolic blood pressure (>80).
+[2] Is there a relationship between BMI and Cardiovascular disease?
+-Yes, there were more people with high or obese BMIs that had cardiovascular disease than those that with normal BMIs that did not.
 [3] Do the factors in the dataset accurately predict if a patient has cardiovascular disease? 
 -Yes! A decision tree was used to predict the relationships that resulted in an absolute mean error of close to zero.
 [4] What is the relationship between age and cardiovascular disease?
