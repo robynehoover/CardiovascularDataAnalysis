@@ -1,7 +1,7 @@
 # Cardiovascular Disease: Can health data predict whether or not a patient has cardiovascular disease?
-```markdown
-![This is an image](https://cdn.britannica.com/05/85505-050-44E1AD82/Cross-section-human-heart.jpg)
-```
+
+![image1](./human-g34bd2f9e8_1280.png)
+
 
 ## Overview
 Heart disease is one of the most prevalent diseases in the world and one of the leading causes of death in the United States. Many of us have heard of the risk factors that put you at risk for cardiovascular disease, such as genetics, exercise, diet, weight, etc. How much of a risk are these risk factors? Can these risk factors actually predict wheter or not a person will develop cardiovascular disease? In order to answer these questions I expolored a cardiovascular disease dataset from Kaggle. This dataset contains 70000 patient records and consits of 3 types of input features: Objective: factual information, Examination: results of medical examination, and Subjective: information given by the patient. The data set includes the following columns:
@@ -18,6 +18,9 @@ Heart disease is one of the most prevalent diseases in the world and one of the 
 -Physical activity.
 
 ## Does gender make a person more likly to develop cardiovascular disease?
+
+![Question1Chart](./Screen Shot 2022-05-18 at 10.13.26 PM.jpg)
+
 Yes! Based on this data, men are slightly more likely to develop cardiovascular disease than women. Men have a 50.5% chance and women have a 49.7% chance of developing cardiovascular disease. It is important to note that more women were included in this data than were men and that this statistic was calculated proportionally to avoid errors.
 
 ## Is there a relationship between BMI and developing cardiovascular disease?
