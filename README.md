@@ -38,7 +38,7 @@ Questions Answered in the Analysis with visulizations:
 
 ## Conclusion:
 
-The combination of age, height, weight, gender, blood pressure, cholesterol, smoking, alcohol intake, and physical activity can predict if a person will develop cardiovascular disase or not. The data is overwhelmingly true! While there are some factors like age and genetics that we can't control, we do have more control of our lifestyle choices. My recommendation is to try to live a healthy lifestyle to prevent developing cardiovascular disease as much as possible (Full disclosure: I am not a medical doctor, this is just a fun data analysis project). Be sure to check out the blog post for more information about the results:
+The combination of age, height, weight, gender, blood pressure, cholesterol, smoking, alcohol intake, and physical activity can predict if a person will develop cardiovascular disase or not. The data is overwhelmingly true! While there are some factors like age and genetics that we can't control, we do have more control of our lifestyle choices. My recommendation is to try to live a healthy lifestyle to prevent developing cardiovascular disease as much as possible (Full disclosure: I am not a medical doctor, this is just a fun data analysis project). Be sure to check out the blog post for more information about the results: https://github.com/robynehoover/CardiovascularDataAnalysis/blob/gh-pages/index.md
 
 
 ## Packages required:
