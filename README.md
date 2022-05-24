@@ -24,31 +24,29 @@ Subjective: information given by the patient.
 - Physical activity: (0: Is not active, 1: Is not active)
 - Presence or absence of cardiovascular disease: (0: Does not have cardiovascular disease, 1: Has cardiovascular disease)
 
-Questions Answered in the Analysis with visulizations:
-[1] Which gender is cardiovascular disease most common in?
+## Questions Answered in the Analysis with visulizations:
+- [1] Which gender is cardiovascular disease most common in?
 -Cardiovascular disease is slightly more common in men than women.
     Men: 50.5%
     Women: 49.7%
-[2] Is there a relationship between BMI and Cardiovascular disease?
+- [2] Is there a relationship between BMI and Cardiovascular disease?
 -Yes, there were more people with high or obese BMIs that had cardiovascular disease than those that with normal BMIs that did not.
-[3] Do the factors in the dataset accurately predict if a patient has cardiovascular disease? 
+- [3] Do the factors in the dataset accurately predict if a patient has cardiovascular disease? 
 -Yes! A decision tree was used to predict the relationships that resulted in an absolute mean error of close to zero.
-[4] What is the relationship between age and cardiovascular disease?
+- [4] What is the relationship between age and cardiovascular disease?
 -People over the age of 55 are more likely to develop cardiovascular disease. 
 
 ## Conclusion:
 
 The combination of age, height, weight, gender, blood pressure, cholesterol, smoking, alcohol intake, and physical activity can predict if a person will develop cardiovascular disase or not. The data is overwhelmingly true! While there are some factors like age and genetics that we can't control, we do have more control of our lifestyle choices. My recommendation is to try to live a healthy lifestyle to prevent developing cardiovascular disease as much as possible (Full disclosure: I am not a medical doctor, this is just a fun data analysis project). Be sure to check out the blog post for more information about the results: https://github.com/robynehoover/CardiovascularDataAnalysis/blob/gh-pages/index.md
 
+## Libraries Used:
 
-## Packages required:
--numpy
--pandas
--matplotlib
--seaborn
--sklearn DecisionTreeRegressor
--sklearn tree
--sklearn mean_absolute_error
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
 
 ## Files used:
 [1] cardio_train.csv
